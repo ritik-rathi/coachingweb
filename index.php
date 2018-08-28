@@ -27,7 +27,7 @@ include 'navbar.php'; ?>
 <form action="" method="post">
 email: <input type="email" name="email"><br>
 password: <input type="password" name="password"><br>
-<input type="submit">
+<input type="dome">
 </form>
 
 <?php
